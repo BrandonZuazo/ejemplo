@@ -4,6 +4,7 @@ namespace ejercicio2
 {
     class Program
     {
+        //hola guapos
         static void Main(string[] args)
         {
             int n1, resultado;
